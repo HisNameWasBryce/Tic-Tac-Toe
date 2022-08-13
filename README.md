@@ -3,11 +3,6 @@ Sample game of Tic-Tac-Toe. This program contains loops used to iterate through 
 This program also modular and contains functions many of which are nested in other functions.
 
 This repository contains all of the source files for this project. 
-
-If you're looking to run the program without looking at source code, feel free to just run download and run the following file. 
-- Tic-Tac-Toe/ttt/x64/Debug/ttt.exe
-
-Source files include:
 - Tic-Tac-Toe/ttt/ttt/ttt.cpp 
 - Tic-Tac-Toe/ttt/ttt/ttt_functions.cpp
 - Tic-Tac-Toe/ttt/ttt/functions.h
