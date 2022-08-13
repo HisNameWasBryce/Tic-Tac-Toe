@@ -1,0 +1,5 @@
+﻿  ttt_functions.cpp
+  ttt.cpp
+  Generating Code...
+E:\C++\ttt\ttt\ttt_functions.cpp(75): warning C4715: 'playAgain': not all control paths return a value
+  ttt.vcxproj -> E:\C++\ttt\x64\Debug\ttt.exe

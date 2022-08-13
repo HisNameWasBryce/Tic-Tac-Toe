@@ -1,0 +1,7 @@
+﻿  ttt_functions.cpp
+  ttt.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ttt.vcxproj -> E:\C++\ttt\x64\Release\ttt.exe
